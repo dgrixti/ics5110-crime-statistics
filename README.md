@@ -4,9 +4,9 @@ Welcome to the **Weapon Use Prediction** project! This interactive web applicati
 
 Latest code: 
 
-Git repo: https://github.com/dgrixti/ics5110-crime-statistics
-Hugging Face: https://huggingface.co/spaces/grixtid/ICS5110/tree/main
-Git page: https://dgrixti.github.io/ics5110-crime-statistics/
+- **Git repo: https://github.com/dgrixti/ics5110-crime-statistics
+- **Hugging Face: https://huggingface.co/spaces/grixtid/ICS5110/tree/main
+- **Git page: https://dgrixti.github.io/ics5110-crime-statistics/
 ---
 
 ## 🔍 **Overview**
