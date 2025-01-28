@@ -4,9 +4,9 @@ Welcome to the **Weapon Use Prediction** project! This interactive web applicati
 
 Latest code: 
 
-- **Git repo: https://github.com/dgrixti/ics5110-crime-statistics
-- **Hugging Face: https://huggingface.co/spaces/grixtid/ICS5110/tree/main
-- **Git page: https://dgrixti.github.io/ics5110-crime-statistics/
+- Git repo: https://github.com/dgrixti/ics5110-crime-statistics
+- Hugging Face: https://huggingface.co/spaces/grixtid/ICS5110/tree/main
+- Git page: https://dgrixti.github.io/ics5110-crime-statistics/
 ---
 
 ## 🔍 **Overview**
@@ -22,6 +22,18 @@ The models are trained on a publicly available crime dataset, which includes fea
 
 ---
 
+## 🌐 **Try It Out**
+
+### **Hugging Face Space**
+
+<iframe
+	src="https://grixtid-ics5110.hf.space"
+    width="100%"
+    height="600"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
 ## 🚀 **Features**
 
 - **Interactive Interface**: Enter key features like Region, Season, Relationship Type, etc., and get predictions in real time.
@@ -34,7 +46,7 @@ The models are trained on a publicly available crime dataset, which includes fea
 ## 💻 **How to Use**
 
 1. **Access the Application**:
-   - Visit the [Hugging Face Space](#) to interact with the app. The iframe below also provides direct access.
+   - Visit the [Hugging Face Space](https://grixtid-ics5110.hf.space) to interact with the app. The iframe below also provides direct access.
 
 2. **Input Features**:
    - Select or input values for features like Region, Victim Sex, Relationship Type, etc.
@@ -66,15 +78,3 @@ The models are trained on a publicly available crime dataset, which includes fea
 - Class imbalance: Addressed using SMOTE for minority-class oversampling.
 
 ---
-
-## 🌐 **Try It Out**
-
-### **Hugging Face Space**
-
-<iframe
-	src="https://grixtid-ics5110.hf.space"
-    width="100%"
-    height="600"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
