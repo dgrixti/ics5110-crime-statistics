@@ -29,7 +29,7 @@ The models are trained on a publicly available crime dataset, which includes fea
 <iframe
 	src="https://grixtid-ics5110.hf.space"
     width="100%"
-    height="600"
+    height="1100"
     frameborder="0"
     allowfullscreen>
 </iframe>
